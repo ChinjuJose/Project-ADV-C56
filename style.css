@@ -1,0 +1,25 @@
+body {
+	text-align-last: center;
+	background: pink;
+}
+
+img {
+	width: 500px;
+	height: 250px;
+}
+
+div {
+	margin-top: 15px;
+}
+
+.imageSection {
+	display: flex;
+	justify-content: center;
+}
+
+.sectionStyle {
+	margin-left: 25px;
+	margin-right: 25px;
+	background: white;
+
+}
